@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a4 as h}from"./chunks/framework.CBsUJNCA.js";const o=JSON.parse('{"title":"解构赋值","description":"","frontmatter":{},"headers":[],"relativePath":"cs/Lang/ES6.md","filePath":"cs/Lang/ES6.md"}'),n={name:"cs/Lang/ES6.md"},l=h("",101),t=[l];function k(p,e,E,r,d,g){return a(),i("div",null,t)}const c=s(n,[["render",k]]);export{o as __pageData,c as default};
