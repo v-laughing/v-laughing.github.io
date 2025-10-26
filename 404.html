@@ -11,10 +11,15 @@
     
     <script type="module" src="/assets/app.ChkiJaD_.js"></script>
     <link rel="preload" href="/assets/inter-roman-latin.Di8DUHzh.woff2" as="font" type="font/woff2" crossorigin="">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="mask-icon" href="/favicon.svg" color="#ffffff">
+    <meta name="keywords" content="PWA, VitePress, workbox, Vite, vite-plugin">
+    <link rel="apple-touch-icon" href="/pwa-192x192.png" sizes="192x192">
     <script id="check-dark-mode">(()=>{const e=localStorage.getItem("vitepress-theme-appearance")||"auto",a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")})();</script>
     <script id="check-mac-os">document.documentElement.classList.toggle("mac",/Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
     <link rel="manifest" href="/manifest.webmanifest">
-    <script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script>
+    <script id="vite-plugin-pwa:register-sw" defer src="/registerSW.js"></script>
   </head>
   <body>
     <div id="app"></div>
