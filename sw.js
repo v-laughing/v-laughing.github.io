@@ -79,19 +79,19 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
    */
   workbox.precacheAndRoute([{
     "url": "404.html",
-    "revision": "202e1ecbe6306a694828d193e08b4fea"
+    "revision": "b997be5ec461d5c3e075700880674133"
   }, {
     "url": "admin/blog.html",
-    "revision": "4a3008452854c59e5faf149317a58a41"
+    "revision": "5c17d4031a4d19117ec1a395a696e7e6"
   }, {
     "url": "admin/hash.html",
-    "revision": "f30e8820dcd8847f918f53e60ef9b3c3"
+    "revision": "fbf2c1e932b296f7e26a386ac2baf0d3"
   }, {
     "url": "admin/index.html",
-    "revision": "54d4940230a69adfbdf97453ad24201a"
+    "revision": "c6dee0cd512af6d90004b6f6c2a909a0"
   }, {
     "url": "admin/music.html",
-    "revision": "46405a0de7bb567ada069d1633e85e20"
+    "revision": "9bd423db07c3b8e62a89ccfa4990f16a"
   }, {
     "url": "apple-touch-icon.png",
     "revision": "85d9f0d2c6d7c2c20a04c5ae95aa1860"
@@ -579,10 +579,10 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "url": "assets/admin_index.md.BgzNWfP6.lean.js",
     "revision": null
   }, {
-    "url": "assets/admin_music.md.Bi9DNEeS.js",
+    "url": "assets/admin_music.md.BnzSciKR.js",
     "revision": null
   }, {
-    "url": "assets/admin_music.md.Bi9DNEeS.lean.js",
+    "url": "assets/admin_music.md.BnzSciKR.lean.js",
     "revision": null
   }, {
     "url": "assets/aefa8042-15fa-4e8b-9f50-20b282a2c624.CU1_kYMR.png",
@@ -591,7 +591,7 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "url": "assets/af198da1-2480-4043-b07f-a3b91a88b815.BKNaxKKP.png",
     "revision": null
   }, {
-    "url": "assets/app.Cdo-wh7Y.js",
+    "url": "assets/app.DYQlRz3h.js",
     "revision": null
   }, {
     "url": "assets/b1fa0453-a4b0-4eae-a352-48acca8fff74.C9le7pud.png",
@@ -837,7 +837,7 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "url": "assets/chunks/framework.DdddRsJj.js",
     "revision": null
   }, {
-    "url": "assets/chunks/theme.BlhzsHDQ.js",
+    "url": "assets/chunks/theme.QNyC0ITQ.js",
     "revision": null
   }, {
     "url": "assets/cs_algorithm_analysis.md.BemMbV_L.js",
@@ -2367,10 +2367,10 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "url": "assets/image-20191212011747967.9DSUbI85.png",
     "revision": null
   }, {
-    "url": "assets/index.md.9zXChefh.js",
+    "url": "assets/index.md.CTbQhAoU.js",
     "revision": null
   }, {
-    "url": "assets/index.md.9zXChefh.lean.js",
+    "url": "assets/index.md.CTbQhAoU.lean.js",
     "revision": null
   }, {
     "url": "assets/Inheritance.CdaamfJU.png",
@@ -2583,7 +2583,7 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "url": "assets/sortcolors.KQXnEowZ.png",
     "revision": null
   }, {
-    "url": "assets/style.B9rrKJ0A.css",
+    "url": "assets/style.BOqea40k.css",
     "revision": null
   }, {
     "url": "assets/style.kfD_Vm-E.png",
@@ -2629,667 +2629,667 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "cs/algorithm/analysis.html",
-    "revision": "64b22d6d5adefb0e01532f62aad528a0"
+    "revision": "fc0bede4481fcfa0839acb818fb5cfad"
   }, {
     "url": "cs/algorithm/data-structure.html",
-    "revision": "3f59ce6228bde0f27b76c8c767d1086d"
+    "revision": "025501648023bb53cf86dc62388c5125"
   }, {
     "url": "cs/algorithm/find.html",
-    "revision": "aa7ce724d18616867bc561d0ee3efee2"
+    "revision": "704b06e0f7ddef2de77e7f2c4dbd0bdd"
   }, {
     "url": "cs/algorithm/index.html",
-    "revision": "e818946ea7a2bcd159636df8ec1e7838"
+    "revision": "8ee664a03320a0a34bde90ec134c97cd"
   }, {
     "url": "cs/algorithm/other.html",
-    "revision": "a2a92c3ed572a0c8380b0f3cfc1d73f8"
+    "revision": "e82f331ccf2748880c9f56f473063957"
   }, {
     "url": "cs/algorithm/sort.html",
-    "revision": "8c6adc8e10794b6cbac2103e7ba3afce"
+    "revision": "51e4d511fb01cdd9defde2235cdca453"
   }, {
     "url": "cs/algorithm/stack-queue.html",
-    "revision": "3779e1697aad350a614af1061f09903e"
+    "revision": "8aa5d363203e9ecd55209325694f18e9"
   }, {
     "url": "cs/algorithm/union-set.html",
-    "revision": "b971a6ba04f3cd9fa007afe8ada108b5"
+    "revision": "ef587d7f5ed11b9116bb426d670b68be"
   }, {
     "url": "cs/archit/cache.html",
-    "revision": "ae6d0e66d9b3d19d67e84da87e4ac170"
+    "revision": "aae4c6091cf18dbd702098fa62032875"
   }, {
     "url": "cs/archit/cluster.html",
-    "revision": "d0b0d24f6dd26b7f53cb668b6a593e38"
+    "revision": "80fa8fe813a78649d5adc21cffb7d9a8"
   }, {
     "url": "cs/archit/distributed.html",
-    "revision": "f1317337e1eab033400412578c17b1e9"
+    "revision": "14e57f7cbc2c9415b3166860d0d0e709"
   }, {
     "url": "cs/archit/index.html",
-    "revision": "f1f2904eb4cf498d4de9c62892d65d24"
+    "revision": "8f4ccd894204076eeb616bc766f10530"
   }, {
     "url": "cs/archit/msg-queue.html",
-    "revision": "bf2dd04d8fc8288af865abc230b19961"
+    "revision": "7db76a76e9969f94540e1ac204f2e08e"
   }, {
     "url": "cs/archit/sys-design.html",
-    "revision": "dd1a10b1ca63f36c95873b425063a293"
+    "revision": "339705aba240bfde4b933767804aa681"
   }, {
     "url": "cs/compile/index.html",
-    "revision": "4b4d70672ad51ae81dd02beda33b3549"
+    "revision": "bf2c0ce69c125d9645786410ec1d46b5"
   }, {
     "url": "cs/cpp/associative-container.html",
-    "revision": "29edcbc8ae5b8aa7102b41cabb4a14e4"
+    "revision": "3e86b2977940b131a95422caf340b1d4"
   }, {
     "url": "cs/cpp/class.html",
-    "revision": "10d00c8ab3b2c48f096190af3611077e"
+    "revision": "472e33cf35c84fc2a804010abfdce874"
   }, {
     "url": "cs/cpp/copy-control.html",
-    "revision": "1d74844c19eb7e76aeaf20b28e94a471"
+    "revision": "5e344364033e6ff8ac20b4caaaa4d549"
   }, {
     "url": "cs/cpp/dynamic-memory.html",
-    "revision": "13fb837ad46b7a1ef1fa75042731a5dd"
+    "revision": "9106297d373a698776528b155d7397c7"
   }, {
     "url": "cs/cpp/expr.html",
-    "revision": "fe08490d9568d612370e18e28e7204df"
+    "revision": "9de87969e8e29418f4eb22537423a2fb"
   }, {
     "url": "cs/cpp/function.html",
-    "revision": "de613d8269b4ac6fd4c4f018200b5297"
+    "revision": "b20078b5adeb6759810252870484a12c"
   }, {
     "url": "cs/cpp/index.html",
-    "revision": "3a4bb60364f13c956edd293110bc68fa"
+    "revision": "87da29b933e539af695e3b2fcb9754fa"
   }, {
     "url": "cs/cpp/IO.html",
-    "revision": "9aa5799139241da0dc560d5ff457a4a0"
+    "revision": "17b5d846b4a4f3b107efdd55f317ecc0"
   }, {
     "url": "cs/cpp/sentence.html",
-    "revision": "147f4af5c1112d58ea69c67886b8fdf4"
+    "revision": "e04340b205dee9bae1e61a178d2169a0"
   }, {
     "url": "cs/cpp/sequential-container.html",
-    "revision": "3aaccfe926cafd6d92e8ae614f69438f"
+    "revision": "3339892add87c103a93b7d9a65da29ea"
   }, {
     "url": "cs/cpp/var-len-sequence.html",
-    "revision": "e140c861f2f3f5928fbbe34ebc173063"
+    "revision": "c5582c58fd2ffa832d9e579190f8da09"
   }, {
     "url": "cs/cpp/var-types.html",
-    "revision": "4e3e170ae79b9e0fc27095bea3cb3518"
+    "revision": "46b663c82302161f4d70b48a4d4c853e"
   }, {
     "url": "cs/database/index.html",
-    "revision": "6f6eb87edacd84c790480712e2ff9a7f"
+    "revision": "35cbd9a0a0c8b11b78d9621766ec082a"
   }, {
     "url": "cs/database/leetcode-database.html",
-    "revision": "13cf68283ca13ba149222953af435cab"
+    "revision": "9d9f173ffbc25332d73cd333dbc53193"
   }, {
     "url": "cs/database/MySQL.html",
-    "revision": "eebdc6417d2c41b48876da3d64f27034"
+    "revision": "cb59a6f0b771e86008e6744a6d18188d"
   }, {
     "url": "cs/database/principle.html",
-    "revision": "b2e0bd1866bc1d295207bd152b535f35"
+    "revision": "be0d9ca9c64fc6cca0e887e3aa1512e4"
   }, {
     "url": "cs/database/Redis.html",
-    "revision": "a4ea1c03638e5966d737e4b29c22751d"
+    "revision": "a9abcdae1a741df31786220643797192"
   }, {
     "url": "cs/database/SQL.html",
-    "revision": "c028b694c1914754300bf135396bce29"
+    "revision": "f06c130edb88a439cc8704c2a6931930"
   }, {
     "url": "cs/design/abserver.html",
-    "revision": "b0c8ca5157bb1f1e117d1ae6f9aa28ee"
+    "revision": "0d42d995e27723a2a0163e582e7bb6e1"
   }, {
     "url": "cs/design/abstract-factory.html",
-    "revision": "c18741102deb000c48544d604821c915"
+    "revision": "c88575ee265ae8da4afcb41aa478a87c"
   }, {
     "url": "cs/design/adapter.html",
-    "revision": "c4b3d8035a21d67bfc8f97db13b44dc3"
+    "revision": "1d8ed6d49037a2c6bcfe462eb2aaa6b9"
   }, {
     "url": "cs/design/agent.html",
-    "revision": "851f4bb01762e93819ef8ade921b71c6"
+    "revision": "a7605b8457140aff38e1aa1b21e68d6d"
   }, {
     "url": "cs/design/appearance.html",
-    "revision": "1418a56579fe0ee58c70f469872e1104"
+    "revision": "42b42066eb3bc87b9dc1ca8ac9c22fee"
   }, {
     "url": "cs/design/bridging.html",
-    "revision": "b8344bfabffe646f5be6a18c199ff7af"
+    "revision": "3cb77b8b81cbcf596263f90b20c638e8"
   }, {
     "url": "cs/design/combination.html",
-    "revision": "f90be0c4d27cc261f1a34f88128c4028"
+    "revision": "4d9131ee9ee44e2884678ad828b99c4c"
   }, {
     "url": "cs/design/command.html",
-    "revision": "f329d67f987c16a1cd9c5fc5003ef00f"
+    "revision": "d76885665d6796dab5983db9c05f4beb"
   }, {
     "url": "cs/design/decoration.html",
-    "revision": "23ea4faab0119fcbee51d36030c638b2"
+    "revision": "f6587a2aa48a88f777f67eb26898a05b"
   }, {
     "url": "cs/design/design-pattern.html",
-    "revision": "49c1f7983748834fff396d05e7823fad"
+    "revision": "654bd3bfc1972bd6a13410c20eb95ffe"
   }, {
     "url": "cs/design/duty-chain.html",
-    "revision": "f1fd576bde4b65f3657facf0e9aaff9a"
+    "revision": "bd804f1da7db61e999eae3ee688baa9e"
   }, {
     "url": "cs/design/factory-method.html",
-    "revision": "0d51b817acc1139429ea0e6f98536d9e"
+    "revision": "cbf169911ca1ed4124b40f08ac8b0496"
   }, {
     "url": "cs/design/flyweight.html",
-    "revision": "48b38d616ee56255199c52728736e541"
+    "revision": "eb4ac1dd34da7c5b01f29720b58e52b5"
   }, {
     "url": "cs/design/generator.html",
-    "revision": "d5d74d36676d48d32ba8fa3b0bd59572"
+    "revision": "68ea4f7521c8b3034d675f14e35e2c21"
   }, {
     "url": "cs/design/index.html",
-    "revision": "1a12a87c449becf6cb7f0869ed1522e7"
+    "revision": "fc3e1753777132861b7911118d25c9c2"
   }, {
     "url": "cs/design/interpreter.html",
-    "revision": "fcbb9108ac1344a79d322b73fdf37126"
+    "revision": "25a046c08734b371891c0b29e67bc890"
   }, {
     "url": "cs/design/iterator.html",
-    "revision": "0d5af3d571511e3ff7fbc3ad24449bc3"
+    "revision": "fea591f009805a56e870bfe971eb5135"
   }, {
     "url": "cs/design/mediator.html",
-    "revision": "f9bccee61350f1e2332520586b2d8b34"
+    "revision": "1e0dee659473127cf12838a17521d64f"
   }, {
     "url": "cs/design/memo.html",
-    "revision": "01d0d969f716a627cba9dbb865932241"
+    "revision": "cf1b295074249e276b8e93548bdf3105"
   }, {
     "url": "cs/design/null-object.html",
-    "revision": "58e479e6c9e95987022aa8856f826836"
+    "revision": "c0d8bf9e4c1872901c6e8e528d9b7fdc"
   }, {
     "url": "cs/design/oriente-object.html",
-    "revision": "583ca315c47d49740bbe0ab77a050e17"
+    "revision": "9ea61628b0cf1ba0fcc065e3c7bbcc5b"
   }, {
     "url": "cs/design/prototype.html",
-    "revision": "6ee32590e7d12f93982fec9a50ce0166"
+    "revision": "fc6214e31c4bdc672e9eb5b8ae83216d"
   }, {
     "url": "cs/design/simple-factory.html",
-    "revision": "444e36e1c3a94cbf3b0e3165b4d033b4"
+    "revision": "ae6deefec51fd432341743c1b66f0294"
   }, {
     "url": "cs/design/singleton.html",
-    "revision": "b3e478f7c0201b875385da964f368848"
+    "revision": "fe687ecae6977ac80398c05a4d29e39a"
   }, {
     "url": "cs/design/state.html",
-    "revision": "08d68d69d5e49ca7e3a295318f77c859"
+    "revision": "8a2b69749ab5dafb95ba253a0269ce2c"
   }, {
     "url": "cs/design/strategy.html",
-    "revision": "a5e2b6523ca54af5fbe8b5eadf66ad40"
+    "revision": "55ffd34821e63c075ebd0100ae4f6c0f"
   }, {
     "url": "cs/design/temp-method.html",
-    "revision": "49aa6a66fe8c580ae0871ef87d08eddc"
+    "revision": "0b3b8a43f9dd5836b37b221a806edefd"
   }, {
     "url": "cs/design/visitor.html",
-    "revision": "f48fbac163d91cd378977cb1b011d726"
+    "revision": "a1d072be5419a8eaff52e67803756635"
   }, {
     "url": "cs/framework/front-end.html",
-    "revision": "152cf9cf0404f9e190728cbacf27418d"
+    "revision": "b9550bfb262cb30340e22d26fbeccc6b"
   }, {
     "url": "cs/framework/index.html",
-    "revision": "26118ca76e8eaa2a3078d647fa749d9e"
+    "revision": "7ba2ea3b1b08d5486116a3f82835f4e7"
   }, {
     "url": "cs/framework/vue-a.html",
-    "revision": "5380ee06b6a034af191a8eb1d2f4e359"
+    "revision": "c8cd870d752bac3f656dd0b0e5eecb6d"
   }, {
     "url": "cs/framework/vue-b.html",
-    "revision": "f8e6d294912a49634a9367f4ae0d2bc0"
+    "revision": "b388bfe40622c2f2bc1a4348393565a4"
   }, {
     "url": "cs/framework/vue-c.html",
-    "revision": "c8e6cbd1e75c1da4025d0039f5158604"
+    "revision": "c71f71f1bf1d9c04d38de576d7605912"
   }, {
     "url": "cs/framework/vue3-reactivity.html",
-    "revision": "c1b141babf82bfa0a865f8ff71ed840b"
+    "revision": "d04a373070103e9eee9b58e1302d13c6"
   }, {
     "url": "cs/framework/webpack.html",
-    "revision": "133664e11ebb2760848a73c8cfc20ef5"
+    "revision": "aab1b2f5cd6d737457f8e7852f16952c"
   }, {
     "url": "cs/index.html",
-    "revision": "807376dca8c17780476210696af82ef9"
+    "revision": "519cfedc7ed6156bcdeda001beb67cb4"
   }, {
     "url": "cs/java/basic.html",
-    "revision": "405d475d3ac50a1bee9270b07a3d26cd"
+    "revision": "06b2d7a27036016e3d81f2190672f6cf"
   }, {
     "url": "cs/java/concurrenry.html",
-    "revision": "4540a77292a2112d0641b5cf98fb192a"
+    "revision": "dfc19442e2b68c24b85c320067316bc8"
   }, {
     "url": "cs/java/container.html",
-    "revision": "587fd61b53c35395df2feed814e8ff46"
+    "revision": "51f6fbbf4f8ece5677cfddc75ba99be2"
   }, {
     "url": "cs/java/index.html",
-    "revision": "4b9bc3789cfec4da49126a93205a47fa"
+    "revision": "69ee7bb2b4cde024b8e5be9f8fd8ebe0"
   }, {
     "url": "cs/java/JavaIO.html",
-    "revision": "57d88b77df351f7585dd0b374319c054"
+    "revision": "a0e99a09d85ea50416f798ca5f61c9c8"
   }, {
     "url": "cs/java/virtual-marchine.html",
-    "revision": "09ac84f84c930b6f72b413b4c2657106"
+    "revision": "63cd50347374a0982220b7cc5963a677"
   }, {
     "url": "cs/Lang/CSS.html",
-    "revision": "d4cde9f3cbc32ca093fad24141da996b"
+    "revision": "3976ce5595847b1d510cd39c9fed8a74"
   }, {
     "url": "cs/Lang/English.html",
-    "revision": "1bee371aabf4287a9f3505a9e66fd810"
+    "revision": "8db6b84878be51755dc3f4191db2175a"
   }, {
     "url": "cs/Lang/ES6.html",
-    "revision": "e1a1e6e26cb46b0c88d8868efd917f6b"
+    "revision": "66c09498daf1995edf11c44b53f5b383"
   }, {
     "url": "cs/Lang/html.html",
-    "revision": "ac78d3f435fb43ac883b1ebea906fb20"
+    "revision": "9caabf29db04778e45a3ff042b48d6cf"
   }, {
     "url": "cs/Lang/index.html",
-    "revision": "fedb2ce6a7ac1c941072708db19f5d71"
+    "revision": "f6f9866baf5ce405fbe1db3bad894dd5"
   }, {
     "url": "cs/Lang/JavaScript.html",
-    "revision": "a3b678c6170ff876e449257c0b2fc18d"
+    "revision": "3af490be1944508de002d793e0c0c4ec"
   }, {
     "url": "cs/Lang/JSTricks.html",
-    "revision": "f0752ceeacbd2858649205559a036f48"
+    "revision": "a0030067e48321bbf111ccc5635a0c30"
   }, {
     "url": "cs/Lang/python.html",
-    "revision": "a6e1b2f98bc8cedb43d64a3b8054f6c4"
+    "revision": "53e4ef5dc710a877727f31475011bef1"
   }, {
     "url": "cs/Lang/regex.html",
-    "revision": "b3a80c8c0ba3f622e82a30da43a9a249"
+    "revision": "75dcd3295213d9b095a22ac0640ae3d5"
   }, {
     "url": "cs/Lang/use_css.html",
-    "revision": "1ee15839a6368128f8610a8f1f9dbc00"
+    "revision": "5e9d4883134af49ed19a99ddfe4f4155"
   }, {
     "url": "cs/leetcode/array.html",
-    "revision": "d55740dd852caf72c417ebf7aa2aa3e9"
+    "revision": "1e3883402db16005dbdefee849fa312b"
   }, {
     "url": "cs/leetcode/bin-search.html",
-    "revision": "671530c5bdfb3484e1da374515c77a85"
+    "revision": "5ccfcf64681c191afefeede604bb826a"
   }, {
     "url": "cs/leetcode/bit-operator.html",
-    "revision": "38d17bfad2a6a2edb68ae2ee6919a174"
+    "revision": "548cb31fd4fdfbf7491a1e1c9c420956"
   }, {
     "url": "cs/leetcode/bound-check.html",
-    "revision": "b1d17c6bc4c07af7186176c5ca163bfe"
+    "revision": "6cf8f063f06a5acc6ffac8c952d85a64"
   }, {
     "url": "cs/leetcode/divide-conquer.html",
-    "revision": "dae2b83e2822f0d99712d7d5723ef131"
+    "revision": "c1bac21f2209053d0e25037d5e8856a7"
   }, {
     "url": "cs/leetcode/double-pointer.html",
-    "revision": "ed7f7c9c0f18a140799567945210b381"
+    "revision": "2895112682f2d16e487dbaf62520f76b"
   }, {
     "url": "cs/leetcode/dynamic.html",
-    "revision": "4bc2be805b5a74c5bdaf1f65a32575e0"
+    "revision": "0a03f60f7b9949c94501e5cd667b58b1"
   }, {
     "url": "cs/leetcode/find.html",
-    "revision": "cb0ef3acc5f6d125e087c98547286a17"
+    "revision": "b3527636901a16e4f8cc972480167f01"
   }, {
     "url": "cs/leetcode/graph.html",
-    "revision": "5ab455ba1555c19bf60e630229c0421d"
+    "revision": "b957974b0cb366fa73729317bbed0bda"
   }, {
     "url": "cs/leetcode/greedy.html",
-    "revision": "4e405e847f2f131b3ae270bfccfde089"
+    "revision": "5c4c16f9a9af973a31f14f6d785cc933"
   }, {
     "url": "cs/leetcode/hash-table.html",
-    "revision": "f5bf26430b4d88378689cbcfc193aadd"
+    "revision": "091b035b188e20c59ab6e3186cc67715"
   }, {
     "url": "cs/leetcode/index.html",
-    "revision": "bb4c4f9fd2a1690e0eaf6a09f9efb834"
+    "revision": "965394e8b036e449e2697cba67305c63"
   }, {
     "url": "cs/leetcode/lcd-3.html",
-    "revision": "c9cd7cbbaecfc2ae8cf67e67ab4b6981"
+    "revision": "017fa6922199b055b144ebd3429f1f86"
   }, {
     "url": "cs/leetcode/list.html",
-    "revision": "c92bb49e3827e0e33de362c77d5bcef9"
+    "revision": "fd7b1b5c67e2adac268632738475eda7"
   }, {
     "url": "cs/leetcode/math.html",
-    "revision": "cee2323204b11fdc35099bfe8b04d732"
+    "revision": "bac709c7feb73c8d7fec9364ee3820cf"
   }, {
     "url": "cs/leetcode/ncode4.html",
-    "revision": "8e31d3ef4860ec24d5e302357318cc01"
+    "revision": "5abae62be0e3159f7e6ffc451065aaca"
   }, {
     "url": "cs/leetcode/ncode5.html",
-    "revision": "0744ccead1f60eda333facc2c7b28c4b"
+    "revision": "71aba88f86a549778f7f491f9a680e46"
   }, {
     "url": "cs/leetcode/p0.html",
-    "revision": "b6949f19fbaca2e1467a08f041e497d1"
+    "revision": "2286ad06432becd6653dc2b4930d3644"
   }, {
     "url": "cs/leetcode/p1.html",
-    "revision": "cd8b9c49618c8201616fdddf4783666a"
+    "revision": "ebdb88082298e63f82cf69b344f3cbb9"
   }, {
     "url": "cs/leetcode/p10.html",
-    "revision": "22ae432de254a1fcdd1c833cf36b95b6"
+    "revision": "4dde35ebe81ebbd554da7f89252c2646"
   }, {
     "url": "cs/leetcode/p11.html",
-    "revision": "a62e09318200762486bda91249b4ab6d"
+    "revision": "4966f80613379756ec45d02a1bac4278"
   }, {
     "url": "cs/leetcode/p12.html",
-    "revision": "06538f1def19e3de1d743e109c10bfcd"
+    "revision": "16d900b3f0938c8b7ed4ec4de4122715"
   }, {
     "url": "cs/leetcode/p13.html",
-    "revision": "43f691dfad99b787a2cad219766dc21b"
+    "revision": "1d24b6579ed1fa37d0637a4d88d44455"
   }, {
     "url": "cs/leetcode/p14.html",
-    "revision": "dbf17203625d77abeb7fa95817f93ba0"
+    "revision": "56ef0a161c3561ead047db2ce9a33836"
   }, {
     "url": "cs/leetcode/p15.html",
-    "revision": "dc67056d322b1ad6459e80b55b4cf216"
+    "revision": "80f86df6a1895f5c80ec32d7b4a5c484"
   }, {
     "url": "cs/leetcode/p16.html",
-    "revision": "332b4424eeec506d2747d43486a790db"
+    "revision": "17e62deaa3f0542c0ce8f57dc6a0b833"
   }, {
     "url": "cs/leetcode/p17.html",
-    "revision": "1c033a6c47a292acc005db5fc9dc7aaa"
+    "revision": "b36f293f3b7a5c406a20fd9aaa32f35b"
   }, {
     "url": "cs/leetcode/p18.html",
-    "revision": "5a04a4eb6599a245d91a9a56d3ca23bd"
+    "revision": "601c0f25b2831b08504c0574fde55417"
   }, {
     "url": "cs/leetcode/p19.html",
-    "revision": "bff462c9ddb9437580356f39b891a504"
+    "revision": "8838b1f1434f58986d244abb413f5e47"
   }, {
     "url": "cs/leetcode/p2.html",
-    "revision": "d8204d6239cf0d506242a2706fb32bc9"
+    "revision": "baf0b4c1aac5cfd293b8fdbd3b7470af"
   }, {
     "url": "cs/leetcode/p20.html",
-    "revision": "db511411cb87bf06125e08d50b7a55e4"
+    "revision": "9af4d68dae369bfe62ded1379fd9f643"
   }, {
     "url": "cs/leetcode/p21.html",
-    "revision": "d9e6261dacb858c01d3059a9d494a15e"
+    "revision": "c15b8c160a61cc9be9088da649b4a182"
   }, {
     "url": "cs/leetcode/p22.html",
-    "revision": "c41a284332223a329252210c124892ce"
+    "revision": "12b4c56b19429e8a743109e7ccad47ad"
   }, {
     "url": "cs/leetcode/p23.html",
-    "revision": "f0192791582b23318309ffd723f6033d"
+    "revision": "fbb42b85345268e4a0d61514a92898c3"
   }, {
     "url": "cs/leetcode/p24.html",
-    "revision": "fcdc5b40bd290dd7164970023f3b5a80"
+    "revision": "490c59d27fedc43bd35482f7b27123d9"
   }, {
     "url": "cs/leetcode/p25.html",
-    "revision": "8c2d3bfbcd2d46eb043040c6c2ac1390"
+    "revision": "cc5a5cd8643fdc0cb40c52556452a4f8"
   }, {
     "url": "cs/leetcode/p26.html",
-    "revision": "b59f57d3d42541b7c93977eecf268ca4"
+    "revision": "c2afd6041fdaececcd3f4321eebc45a4"
   }, {
     "url": "cs/leetcode/p27.html",
-    "revision": "9bf53e75b1f09924d1ffa6a151f66750"
+    "revision": "4b59dbcd06d01dde1a91734d19d45172"
   }, {
     "url": "cs/leetcode/p28.html",
-    "revision": "f820b0297bceb3c85a335b6504b9e9bf"
+    "revision": "9750ee0ddb5a448780bf9441452bcbdc"
   }, {
     "url": "cs/leetcode/p29.html",
-    "revision": "7e5e754a69b33e888198e61458529684"
+    "revision": "8a75f3b921fe5bd5ef765923c990761f"
   }, {
     "url": "cs/leetcode/p3.html",
-    "revision": "6957200f876bf8fe8e4a307cab58bf69"
+    "revision": "05e50542966db21a6221d0f2c1fda8b8"
   }, {
     "url": "cs/leetcode/p30.html",
-    "revision": "21432604849684a94349ccdad43d7728"
+    "revision": "fa7fd4cf2e879f03a1bb92e9f924aa15"
   }, {
     "url": "cs/leetcode/p31.html",
-    "revision": "24824526db1468cf89d33d2a9c9c4f84"
+    "revision": "b0db57b825b2237d3863430e7e2d2c23"
   }, {
     "url": "cs/leetcode/p32.html",
-    "revision": "87af891e5814bf7e98db88b6210ab0fe"
+    "revision": "2960389f9f444217996cfc96e85e9b42"
   }, {
     "url": "cs/leetcode/p33.html",
-    "revision": "eea45f11eefaf849b8281f4a59ce49c8"
+    "revision": "d29087ce2f394a759126bffa9e8e1940"
   }, {
     "url": "cs/leetcode/p34.html",
-    "revision": "19453f138809230406f14ff34bdfdb4f"
+    "revision": "0386c8734f703fb35cf4b1762568240c"
   }, {
     "url": "cs/leetcode/p35.html",
-    "revision": "318b24e2b18f3741422269e3690f17fe"
+    "revision": "39516079c62372c2b5a07eeca71f0cc4"
   }, {
     "url": "cs/leetcode/p36.html",
-    "revision": "96ce1aa9e9c77b3b3bbb63cd704762cd"
+    "revision": "4d43ccded775b63dc68218a311d94e7d"
   }, {
     "url": "cs/leetcode/p37.html",
-    "revision": "bbfdba90d1519e8aa57b964d37828f11"
+    "revision": "8e8f77b6e4578e79001842cb344d754b"
   }, {
     "url": "cs/leetcode/p38.html",
-    "revision": "59e4ffe5a2e20b709baa444cb58d4194"
+    "revision": "b2c7eb052592cf7387145a22aa786a3c"
   }, {
     "url": "cs/leetcode/p39.html",
-    "revision": "fdb4f4716b33a320f5205a5f09a4e93f"
+    "revision": "400de510cd31e1e84ff1bd114f7a0af2"
   }, {
     "url": "cs/leetcode/p4.html",
-    "revision": "f6cfa174ccbeaf14bd3d06bff082b5fd"
+    "revision": "67b0c665f5b3c497e3d523032fe52517"
   }, {
     "url": "cs/leetcode/p40.html",
-    "revision": "d1fc1faf8d3d4f5cd99306d28e78b859"
+    "revision": "2bff2f363687ce91ca76d219a2269bd4"
   }, {
     "url": "cs/leetcode/p41.html",
-    "revision": "93177354c3c302fb0bc26b171b376c15"
+    "revision": "581b0002c49ca5e37a6bf8ff01f7a93d"
   }, {
     "url": "cs/leetcode/p42.html",
-    "revision": "a7e6e6e6ad36f594db64a05ca1ba76cd"
+    "revision": "5f0d4c5095de91c82eee56229068bb16"
   }, {
     "url": "cs/leetcode/p43.html",
-    "revision": "fdc1179c55f55efbdad8b73c6561f796"
+    "revision": "032a02700fb1299090471fef1370ee1a"
   }, {
     "url": "cs/leetcode/p44.html",
-    "revision": "3fee8faab66bfb118f00910215f96cc4"
+    "revision": "e79afe1ba990e2b677b277d900740e47"
   }, {
     "url": "cs/leetcode/p45.html",
-    "revision": "aae60727b7f9ee20cc665826a8b6908c"
+    "revision": "99a46c10a304592a32c77c6dcd1f823b"
   }, {
     "url": "cs/leetcode/p46.html",
-    "revision": "733e30a0517dd877b0854e2eb0ef8032"
+    "revision": "6bea6af915ff60e4f734549b9f1adeb7"
   }, {
     "url": "cs/leetcode/p47.html",
-    "revision": "f149ec7d92e98fb2e0d4616cc4ec5d47"
+    "revision": "840c85cce386be86ba758b0ebcc38525"
   }, {
     "url": "cs/leetcode/p48.html",
-    "revision": "04f5cf09c3121144730e22d2008d3c8f"
+    "revision": "48c7969de56836c69f5e9b66485439be"
   }, {
     "url": "cs/leetcode/p49.html",
-    "revision": "ae5299971df18d8e372a90c63f6e6458"
+    "revision": "29160aa513e9606682ec786a77bc89b5"
   }, {
     "url": "cs/leetcode/p5.html",
-    "revision": "98443d53ec31e4507946bc64deedde29"
+    "revision": "97f4b22d2dfb313eb1307dd8ac467c96"
   }, {
     "url": "cs/leetcode/p50.html",
-    "revision": "e9b8c674924ec4de2efc820a8aee7404"
+    "revision": "dce7ccfdc714da616805e9b936bda62f"
   }, {
     "url": "cs/leetcode/p51.html",
-    "revision": "3364dbcf5d5cb7d6ab217ebe63073361"
+    "revision": "ab848f24cc5996d7c8f742c64e7ab38b"
   }, {
     "url": "cs/leetcode/p52.html",
-    "revision": "3e400d3b8d48fba0e2f83df5be752a1c"
+    "revision": "a890dfe680df9acd02cb0b5d3f9b237e"
   }, {
     "url": "cs/leetcode/p53.html",
-    "revision": "2bf23bad82307b2abe195315e8d53f50"
+    "revision": "fbf63cf2bd32e3f8a5ed94805feed3ea"
   }, {
     "url": "cs/leetcode/p54.html",
-    "revision": "1ff7b7453516bad87f3e9e3f4abe0968"
+    "revision": "ab951fffc18a45bae751dbb7ea8ab94e"
   }, {
     "url": "cs/leetcode/p55.html",
-    "revision": "e5369dff409a88d2908da37f30a6851c"
+    "revision": "de1227f172175a2b36fc69aad70171d9"
   }, {
     "url": "cs/leetcode/p56.html",
-    "revision": "c70df43b0811270a8270e479d58bbc69"
+    "revision": "144ce1e97299f535b657ead44163719f"
   }, {
     "url": "cs/leetcode/p57.html",
-    "revision": "1c8072c0b2488711fd92357348afda38"
+    "revision": "f519f8e62a79210e2ef35fdc9fe50f84"
   }, {
     "url": "cs/leetcode/p58.html",
-    "revision": "f516fac21b878dc2321a8df3af7e2697"
+    "revision": "cb67b40bd06f67ddf5164893888566c7"
   }, {
     "url": "cs/leetcode/p59.html",
-    "revision": "581a5ffb4bf3adc76ba729f9a97612d0"
+    "revision": "136777d349e1978d27817b5c1841fd32"
   }, {
     "url": "cs/leetcode/p6.html",
-    "revision": "2de91e805731f031cbf3b3a4a0a7aadb"
+    "revision": "edbdee3234b871cd6a472fe46ba0acf6"
   }, {
     "url": "cs/leetcode/p60.html",
-    "revision": "643d2db3f856d1e48f789ff6403afe3b"
+    "revision": "de31a5d1b7c7d332e290e81de363995e"
   }, {
     "url": "cs/leetcode/p61.html",
-    "revision": "2382705b1c4555ba24cad3e9921fd9b0"
+    "revision": "c4b5f941f263fcd3df9c0c00e6e574ff"
   }, {
     "url": "cs/leetcode/p62.html",
-    "revision": "36dc0f855fc932fb6cc1730bf966f86e"
+    "revision": "e6bdd23929bdf8af808f958086fedf51"
   }, {
     "url": "cs/leetcode/p63.html",
-    "revision": "441fc517cd020951f700884b38ea5a8a"
+    "revision": "d9819ca75735ee4bc599069fa7e78d51"
   }, {
     "url": "cs/leetcode/p64.html",
-    "revision": "8847c7cb36a83ebd8b4aaa11181137d5"
+    "revision": "e54e1620dfa9f2a5dae34a4547b3a50c"
   }, {
     "url": "cs/leetcode/p65.html",
-    "revision": "1155ca09ef3fbd4dec96c636fd19fd28"
+    "revision": "aa72818ab3df1771a5caba63da29900c"
   }, {
     "url": "cs/leetcode/p66.html",
-    "revision": "deaca74d3b827862cc30729927d6a584"
+    "revision": "34768841c70c3dec5fa79ee0aa8cb09f"
   }, {
     "url": "cs/leetcode/p67.html",
-    "revision": "8dd9f617e867fa915121a45657dd798c"
+    "revision": "839191d1d324d3a8dce6f7330f6b0212"
   }, {
     "url": "cs/leetcode/p68.html",
-    "revision": "925f626f6026e6cd2d9fa4cb829cb90e"
+    "revision": "62be73a426b7dd76dff466e3a3d861b4"
   }, {
     "url": "cs/leetcode/p69.html",
-    "revision": "f44815dadc9119fa1148d97557285e36"
+    "revision": "d29c4ab33794b27126762c160fb30415"
   }, {
     "url": "cs/leetcode/p7.html",
-    "revision": "ad0671ecabf532bad0ada23786f55964"
+    "revision": "fc809c4af8c7f2963d6b9b4d8d738631"
   }, {
     "url": "cs/leetcode/p70.html",
-    "revision": "b52c4ea1ea4b562723a02364d2e69db0"
+    "revision": "81e26bd4398ae47585fa8bebb178196c"
   }, {
     "url": "cs/leetcode/p71.html",
-    "revision": "cff4e87bb3a432d781ef2268f229af04"
+    "revision": "b3ef8d920fb5317a371cd4a0219eef34"
   }, {
     "url": "cs/leetcode/p72.html",
-    "revision": "25f33f23b62e0a0ea2d4a0a71bfbfebb"
+    "revision": "15071792bfe25916f9065c9a03fa0dae"
   }, {
     "url": "cs/leetcode/p73.html",
-    "revision": "8715d5264ae6e263b5b66446eed11450"
+    "revision": "5d12543a24272c29eaf23829ddc14836"
   }, {
     "url": "cs/leetcode/p74.html",
-    "revision": "9ee4181c1d8ea70ec1dcecb6ad392790"
+    "revision": "369699a658dfcb7d8cebf2bb0ff0976f"
   }, {
     "url": "cs/leetcode/p75.html",
-    "revision": "f6c6675f9cb9d0082d980cf2a675229b"
+    "revision": "a899156ae350ad845d1bdeee2b4eb163"
   }, {
     "url": "cs/leetcode/p76.html",
-    "revision": "b061afbe92a109c6eafc2ed539efc2c9"
+    "revision": "7180fc2bfd55a36a8894765f64e561a1"
   }, {
     "url": "cs/leetcode/p77.html",
-    "revision": "c785769e26188d8016caeefd9535307a"
+    "revision": "cbc8479e8984233777642f51fb0b3a09"
   }, {
     "url": "cs/leetcode/p78.html",
-    "revision": "f753eaf98b20771fedf09c0d45d54700"
+    "revision": "848f4bdc37f03e745e4557e303c55fde"
   }, {
     "url": "cs/leetcode/p79.html",
-    "revision": "6e32add69f4949d10097434471b0093b"
+    "revision": "70c83f48d2a07e8cc07700682973a982"
   }, {
     "url": "cs/leetcode/p8.html",
-    "revision": "c439d540688ebb58183ea0c861ec6b7b"
+    "revision": "e5ffdcc129085c93dbc3d3537fadee28"
   }, {
     "url": "cs/leetcode/p9.html",
-    "revision": "ad7a5eef64a2e4ff8d5f2b0a1bc4aaaf"
+    "revision": "014c0f957fac993f4508146db15a5e64"
   }, {
     "url": "cs/leetcode/sort.html",
-    "revision": "2466a4cb01ef1e21cdfc1c6c997fb143"
+    "revision": "83b4b9b279436eacf3a7791c5e72c4f3"
   }, {
     "url": "cs/leetcode/stack-queue.html",
-    "revision": "c77023c8b069d97595f0720ccd80f603"
+    "revision": "c7daaefc5db2d0581528c622a5758952"
   }, {
     "url": "cs/leetcode/string.html",
-    "revision": "cbbdaedfbf401ec20d294e18f291bb36"
+    "revision": "6de8ae434e46446a7226da624b978cb9"
   }, {
     "url": "cs/leetcode/tree.html",
-    "revision": "f9e83495c5d9452a7ff9c7a7063ed2ab"
+    "revision": "8f76ff7f545f07285bca2fc1c79afcdf"
   }, {
     "url": "cs/linux/command.html",
-    "revision": "09df87ec223fe6d3498e82e7e219b657"
+    "revision": "48771d52f43023e8d8d071b1b7797392"
   }, {
     "url": "cs/linux/index.html",
-    "revision": "3e1456c680e4da325387c86868fddb31"
+    "revision": "e73981f94684dbf520e95faa17c5fc75"
   }, {
     "url": "cs/linux/Linux.html",
-    "revision": "5e1b7e41de0d60c5e0ff1215fa196a64"
+    "revision": "715dde5dd2565609fa0947b8c246a72f"
   }, {
     "url": "cs/linux/process.html",
-    "revision": "5dc213ef40f94fdca85170dc899164e5"
+    "revision": "2c9fb312b7ff8ae12d643bdcfdc4d50d"
   }, {
     "url": "cs/network/application.html",
-    "revision": "ca7378b77faca9f6f60aedf488e392ac"
+    "revision": "caeeff20beccd331da5f67a530db4177"
   }, {
     "url": "cs/network/conclude.html",
-    "revision": "3a05d0cf222ac9184bf64b6a4208d436"
+    "revision": "e1b7c5472259ecf9d851129b52d0988b"
   }, {
     "url": "cs/network/HTTP.html",
-    "revision": "8fbfe1dc986ffb12858985b9803e14d5"
+    "revision": "3f61868970fe5379343c9c92d75682fd"
   }, {
     "url": "cs/network/index.html",
-    "revision": "bbe75cf4c4acd38bdf5bda174e4b8601"
+    "revision": "0d025cbe36233e0e57eb58063dbac451"
   }, {
     "url": "cs/network/link.html",
-    "revision": "be0e2b227b1bd6ab9445151eaf8303bc"
+    "revision": "ba9e4dc8dceea6236f12693b4fd8f4e3"
   }, {
     "url": "cs/network/network.html",
-    "revision": "7768834ae87f2924b98723b5e2cd6ab9"
+    "revision": "f8bac0831998092ce9b76224b0036087"
   }, {
     "url": "cs/network/physical.html",
-    "revision": "4ac58b462990166521d5237749982231"
+    "revision": "9d27db22813c492e041fae331c438f4e"
   }, {
     "url": "cs/network/Socket.html",
-    "revision": "f768446bc6f4dfb1bfb1071afb1d01d8"
+    "revision": "7da289f18e49d413d4fcf66cc8affccf"
   }, {
     "url": "cs/network/summary.html",
-    "revision": "de1987c75442e654763d2ba119a999a8"
+    "revision": "a8a6a5ad97f2c0534cb70cbbc0254b3e"
   }, {
     "url": "cs/network/transport.html",
-    "revision": "1920c78a4b5c368b4a61f7b39660ccad"
+    "revision": "d4572f655aaa0293ea3d88512e857af4"
   }, {
     "url": "cs/Osystem/concept.html",
-    "revision": "70457460e4198a9316b1a42130f96c7c"
+    "revision": "fdcbda0a8dedd6e92637b2b7853d561a"
   }, {
     "url": "cs/Osystem/conclude.html",
-    "revision": "13d27993bd64ccf8e207a11277935bec"
+    "revision": "8e0bba063ca945b4a2d4407e4c88f66d"
   }, {
     "url": "cs/Osystem/deadlock.html",
-    "revision": "b8fad1cd91ce7e0682aa70e818c6b8f3"
+    "revision": "ecc4d55dc88c77edcc85ff9865ed73c3"
   }, {
     "url": "cs/Osystem/device-mgmt.html",
-    "revision": "7285b4f1112b0531397a05a69ae3976b"
+    "revision": "1608a4003f31de55bf88b86712b95dce"
   }, {
     "url": "cs/Osystem/index.html",
-    "revision": "764d0e5b8a96f8b0cced0f69777cdb5e"
+    "revision": "2ebd1ba0c83b6477f6d4a219ebce5ee7"
   }, {
     "url": "cs/Osystem/memory-mgmt.html",
-    "revision": "acffe2d91e4b7a587beab6e1f78284d8"
+    "revision": "e6507b0206fce101f1baef5ff889db97"
   }, {
     "url": "cs/Osystem/process-mgmt.html",
-    "revision": "cd8bf8de15b07753a778b89e552c01a0"
+    "revision": "41fc457c24ba166f02ee93777ee0b561"
   }, {
     "url": "cs/tools/build-tools.html",
-    "revision": "0b063f203715c2a1724eef58e5fe601d"
+    "revision": "48a6261ebb37376e6067ec7c5d2e01c6"
   }, {
     "url": "cs/tools/code-readability.html",
-    "revision": "d31e0ffd72d10b498b0104dacbb6548e"
+    "revision": "8067fd7a81923f39e19b46f908f411fd"
   }, {
     "url": "cs/tools/code-style.html",
-    "revision": "de32792b229a8c05949f57185ecb20cd"
+    "revision": "9ba28c51e65f32f71677732f18fee8ae"
   }, {
     "url": "cs/tools/Docker.html",
-    "revision": "d7c4e57645d126abcdf9267cf108fcf8"
+    "revision": "d75b73440fa8e39668948cbb69d7b469"
   }, {
     "url": "cs/tools/Git.html",
-    "revision": "2e2d25d10f8ab84857dbd050549a7a7c"
+    "revision": "46869a623e2d54bdb4e705ce2de62695"
   }, {
     "url": "cs/tools/index.html",
-    "revision": "19d43ee729711fc441928c8f511d87fc"
+    "revision": "044d7368345e75dc92d4e1eaa89ad294"
   }, {
     "url": "cs/tools/regular-expr.html",
-    "revision": "bbf08a438e5cbc80a11e77c725a4a13b"
+    "revision": "31177e632767135dc1b2147bea2bdb72"
   }, {
     "url": "cs/web/attack-tech.html",
-    "revision": "ff9b9e6f172ab33d002d01758ae64e53"
+    "revision": "1e3025ddf2cc875bd70ed8e29f9c0e87"
   }, {
     "url": "cs/web/browser.html",
-    "revision": "361e6caf0216c370612599ef54bdbe55"
+    "revision": "e99f129e8b6ca01b73bf15fb151d86eb"
   }, {
     "url": "cs/web/guide.html",
-    "revision": "8d0903e1f3f8679e465ff5f7cb5d7cd4"
+    "revision": "5eecefd3033fed83168817baedfc4240"
   }, {
     "url": "cs/web/index.html",
-    "revision": "2b02d46bbc46f4c5e4953da549b0c013"
+    "revision": "38ffb4d4b4b7f61e0f66a7373110e9f1"
   }, {
     "url": "cs/web/performance.html",
-    "revision": "3e0456c66721ba4aec0e244b6c64574e"
+    "revision": "a66bc3c676567e1aa79dd134030ab077"
   }, {
     "url": "cs/web/resource.html",
-    "revision": "2e98d13f0b56b843958c389991c69f80"
+    "revision": "82722c9b5356160a86e0706945f2829f"
   }, {
     "url": "cs/web/web.html",
-    "revision": "d33c88f269881ec866ce3ccd38319e5f"
+    "revision": "a13ed0e59c7757e8480990d5d30f80ab"
   }, {
     "url": "favicon-16x16.png",
     "revision": "33db48f5c6c1b732365cab69e3c155b0"
@@ -3301,64 +3301,64 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "revision": "ed72498d79d7ee9029372c5b19d7cd06"
   }, {
     "url": "games/index.html",
-    "revision": "4fdb76d8bfe92e8682b835e76fdf3389"
+    "revision": "3ae26c5ad3db44efb61168e19de62103"
   }, {
     "url": "games/texas-poker.html",
-    "revision": "4501a737aaa8081e48ddbc1dac282012"
+    "revision": "cb192b4395eda788a22108a3bff18893"
   }, {
     "url": "index.html",
-    "revision": "2c461b330ea1cf616ac4e8041759acdb"
+    "revision": "a3176e0ed7a361bad090da47b0d78557"
   }, {
     "url": "language/english/adjective.html",
-    "revision": "b1674e561e8df182161f5d3f159de7c1"
+    "revision": "0a2e6651106cd06cad277a6470d3f653"
   }, {
     "url": "language/english/adverb.html",
-    "revision": "a37f1b01ac6050dd4e22023bba746dae"
+    "revision": "6267eace470ca1bd17418079915fb21a"
   }, {
     "url": "language/english/determiner.html",
-    "revision": "c0bcca289a97a26eeb75a42b6c58b3e4"
+    "revision": "4edce7567a302bfbb17b33f22d71ea59"
   }, {
     "url": "language/english/differ.html",
-    "revision": "b2a238f8ae2787599b1a720dc9451f35"
+    "revision": "47247b72f8d945d4ebceb2bdc9cd8e68"
   }, {
     "url": "language/english/index.html",
-    "revision": "6c792493f037a3b2bb954f6c6a136a66"
+    "revision": "b7681641d6d0a9f34cd10da041d96006"
   }, {
     "url": "language/english/modal.html",
-    "revision": "fc718b11d16ae2092acbb91c49b769ca"
+    "revision": "aa5e6191f3805bc12f9feeccb213cddd"
   }, {
     "url": "language/english/mood.html",
-    "revision": "74c7f00a9bcef31f5f246ecc53797dba"
+    "revision": "58c115973775d7b014f0dc14c9103cbb"
   }, {
     "url": "language/english/non-predicate.html",
-    "revision": "cb9ed6f8c191d86e19856613956c6658"
+    "revision": "9c423d10028937ae44dd9ee8c01cf6f1"
   }, {
     "url": "language/english/nouns.html",
-    "revision": "712640c29c880d747cdb4f37c416e5e8"
+    "revision": "c56cbc8b07e5a8fb6e88720a67b5ce2f"
   }, {
     "url": "language/english/phonetic.html",
-    "revision": "7ade708cb07890391eba4508a1e65c16"
+    "revision": "a4dc4f1da1e652b6c79b78c8efd43f27"
   }, {
     "url": "language/english/preposition.html",
-    "revision": "301c24d2d6ebc5839e76dafb15480443"
+    "revision": "e50812f5a71a55cfea597b920fe7734e"
   }, {
     "url": "language/english/pronoun.html",
-    "revision": "ee2cfe8024cd0d50669156aa70263b02"
+    "revision": "1bcbea93f16e593f21e289c52bce0f78"
   }, {
     "url": "language/english/sentence.html",
-    "revision": "36b39a0aac773653f57c86ea6dced298"
+    "revision": "3ce636b5c720420af1596d60a3cbc884"
   }, {
     "url": "language/english/tense.html",
-    "revision": "ac4bab7338494866b1f12b5c18cfbe82"
+    "revision": "73a5b2a2aa53912cf4b91a02936bf5bb"
   }, {
     "url": "language/english/verb.html",
-    "revision": "e3163375a69018ccbced77a1d4c6c4e2"
+    "revision": "94e790845bdf5a2b9411d3ffbb37ac58"
   }, {
     "url": "language/english/word5000.html",
-    "revision": "784036fa7b7a925d0795d8a521e72ff3"
+    "revision": "51d702c4b8e56960261e657fcc1f2c0c"
   }, {
     "url": "language/index.html",
-    "revision": "1faec46181383d6ac5fadbaa86005aa1"
+    "revision": "10dfa0c92817192ece7d2ddff6c0f075"
   }, {
     "url": "mstile-150x150.png",
     "revision": "2350602bfb8228f4f0361e4f64321c7b"
@@ -3376,7 +3376,7 @@ define(['./workbox-f8c404e3'], (function (workbox) { 'use strict';
     "revision": "b9748b4adab59c15b42d28752c405d5a"
   }, {
     "url": "tools/index.html",
-    "revision": "a252bd79cf3159ca9f36cc07a4217c7b"
+    "revision": "068e67e1bb5d7b5f20f4a85abc778c26"
   }, {
     "url": "vp-icons.css",
     "revision": "b48bd2583e99520b89808afc6043b6bb"
