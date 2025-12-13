@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./chunks/framework.DdddRsJj.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"docs"},"headers":[],"relativePath":"others/collection.md","filePath":"others/collection.md"}'),c={name:"others/collection.md"};function a(r,s,n,l,i,d){return o(),t("div")}const m=e(c,[["render",a]]);export{_ as __pageData,m as default};
