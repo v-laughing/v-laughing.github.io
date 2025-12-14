@@ -1,0 +1,1 @@
+const a=[{album:"WE LOVE ヘキサゴン 2010",artist:"矢口真里とストローハット",audio:"https://raw.githubusercontent.com/v-laughing/assets/master/music/kaze-wo-sagashite.mp3",id:"kaze-wo-sagashite",lrc:"./風をさがして - 矢口真里.all.lrc",title:"風をさがして"}];export{a as m};
