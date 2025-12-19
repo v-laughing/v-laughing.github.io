@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DWze_QZm.js";const m=JSON.parse('{"title":"web","description":"","frontmatter":{"title":"web","order":1},"headers":[],"relativePath":"cs/web/index.md","filePath":"cs/web/index.md"}'),r={name:"cs/web/index.md"};function n(s,c,o,d,i,p){return a(),t("div")}const f=e(r,[["render",n]]);export{m as __pageData,f as default};
