@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.CbmA1wix.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cs/linux/index.md","filePath":"cs/linux/index.md"}'),a={name:"cs/linux/index.md"};function s(c,r,i,o,d,p){return n(),t("div")}const x=e(a,[["render",s]]);export{l as __pageData,x as default};
