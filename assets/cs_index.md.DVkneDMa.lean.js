@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,a4 as t}from"./chunks/framework.CbmA1wix.js";const u=JSON.parse('{"title":"计算机科学","description":"","frontmatter":{},"headers":[],"relativePath":"cs/index.md","filePath":"cs/index.md"}'),l={name:"cs/index.md"};function o(s,a,h,n,c,d){return i(),r("div",null,[...a[0]||(a[0]=[t("",8)])])}const _=e(l,[["render",o]]);export{u as __pageData,_ as default};
