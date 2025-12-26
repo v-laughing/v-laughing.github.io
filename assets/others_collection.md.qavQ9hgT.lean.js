@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.DQgBWl2g.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"others/collection.md","filePath":"others/collection.md"}'),c={name:"others/collection.md"};function r(a,n,s,l,i,p){return o(),t("div")}const m=e(c,[["render",r]]);export{d as __pageData,m as default};

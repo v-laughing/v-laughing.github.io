@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DQgBWl2g.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cs/archit/index.md","filePath":"cs/archit/index.md"}'),c={name:"cs/archit/index.md"};function r(n,s,i,o,d,p){return a(),t("div")}const f=e(c,[["render",r]]);export{m as __pageData,f as default};
